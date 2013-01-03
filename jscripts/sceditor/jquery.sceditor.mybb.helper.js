@@ -191,7 +191,7 @@ jQuery(document).ready(function($) {
 	 *******************/
 	$("#message, #signature").sceditor({
 		style:			"jscripts/sceditor/jquery.sceditor.mybb.css",
-		toolbar:		"bold,italic,underline,strike,subscript,superscript|left,center,right,justify|" +
+		toolbar:		"bold,italic,underline,strike,subscript,superscript|left,center,right,justify,|,ltr,rtl|" +
 					"font,size,color,removeformat|bulletlist,orderedlist|" +
 					"code,quote|horizontalrule,image,email,link,unlink|emoticon,youtube,date,time|" +
 					"print,source",
